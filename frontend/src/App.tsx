@@ -23,7 +23,7 @@ const Agent: React.FC = () => {
   const [connectionError, setConnectionError] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  const API_BASE_URL = 'https://qnabot-1.onrender.com';
+  const API_BASE_URL = 'https://qnabot-1.onrender.com:4000';
 
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
