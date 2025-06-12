@@ -1,4 +1,5 @@
 # QnABot
+https://storied-shortbread-36ee2c.netlify.app/
 
 A modern Question and Answer chatbot built with Node.js and AI integration. This bot provides intelligent responses to user queries using advanced natural language processing capabilities.
 
